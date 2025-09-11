@@ -1,2 +1,2 @@
-# Python_seminars
-Seminar task for Python introductory course
+# Python_practice
+Practice tasks for Python introductory course
